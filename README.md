@@ -6,6 +6,12 @@ TurtleBot4 기반 전투로봇 시스템 — **순찰(SLAM/Nav2) → YOLO 적 �
 
 ROKEY 부트캠프 지능로봇 1조 · SOCAMACA
 
+## 데모
+
+[![SOCAMACA 데모 영상](docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/SOCAMACA/releases/download/demo/socamaca.mp4)
+
+<sub>▶ 이미지를 클릭하면 데모 영상을 볼 수 있습니다 (56초)</sub>
+
 ---
 
 ## 시스템 구성
